@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="weather.aemet" name="AEMET" version="1.0" provider-name="SpAiK">
+  <requires>
+    <import addon="xbmc.python" version="2.0"/>
+  </requires>
+  <extension point="xbmc.python.weather" library="default.py"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Información meteorológica de AEMET</summary>
+    <summary lang="en">Weather information from AEMET (Spain only)</summary>
+    <description lang="es">Información del tiempo de la Agencia Estatal de Meteorología (http://www.aemet.es)</description>
+	<description lang="en">Weather forecast from Spain's Weather State Agency (http://www.aemet.es)</description>
+    <platform>all</platform>
+	<forum></forum>
+    <source></source>
+  </extension>
+</addon>
