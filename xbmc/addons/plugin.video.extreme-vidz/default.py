@@ -94,7 +94,7 @@ def listVideos(url, pattern):
     matches = re.compile(pattern,re.DOTALL).findall(data)
     print matches
 	
-    addLink(translation(30017), url, 'playAll', "")
+    #addLink(translation(30017), url, 'playAll', "")
 
     for scrapedthumbnail, scrapedurl, scrapedtitle in matches:
         '''xbmc.log('TITULO: '+scrapedtitle)
