@@ -13,9 +13,8 @@
         <summary lang="en">Extreme Movie Database. BMX · MTB · Inline · Surf · Ski · Snowboard · Skateboard · Graffiti · Auto · Wakeboard · Climbing · MotoX</summary>
         <language>en</language>
         <description lang="en">Extreme Movie Database. BMX · MTB · Inline · Surf · Ski · Snowboard · Skateboard · Graffiti · Auto · Wakeboard · Climbing · MotoX</description>
-        <website></website>
-        <source></source>
         <forum></forum>
-        <email></email>
+		<source>http://code.google.com/p/spaik/source/</source>
+		<email>ospaiko@gmail.com</email>
     </extension>
 </addon>

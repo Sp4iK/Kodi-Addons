@@ -11,6 +11,7 @@
 	<description lang="en">Weather forecast from Spain's Weather State Agency (http://www.aemet.es)</description>
     <platform>all</platform>
 	<forum></forum>
-    <source></source>
+    <source>http://code.google.com/p/spaik/source/</source>
+	<email>ospaiko@gmail.com</email>
   </extension>
 </addon>
